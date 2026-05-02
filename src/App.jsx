@@ -243,7 +243,7 @@ export default function App() {
     <div style={{ minHeight: "100vh", background: "#080b12", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", fontFamily: "'Sora', sans-serif", gap: 16 }}>
       <style>{css}</style>
       <div style={{ fontSize: 48 }}>💪</div>
-      <div style={{ fontSize: 18, fontWeight: 800, color: "#e2e8f0" }}>Health Battle</div>
+      <div style={{ fontSize: 18, fontWeight: 800, color: "#e2e8f0" }}>Casal Saudável</div>
       <div className="spinner" />
       <div style={{ fontSize: 12, color: "#475569" }}>Sincronizando com Firebase...</div>
     </div>
@@ -270,7 +270,7 @@ export default function App() {
           <div>
             <div style={{ fontSize: 11, fontWeight: 700, color: "#2d3f55", letterSpacing: 2.5, textTransform: "uppercase" }}>Casal Saudável</div>
             <div style={{ fontSize: 22, fontWeight: 900, background: "linear-gradient(100deg, #4ade80 0%, #f472b6 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>
-              ⚡ Health Battle
+              ⚡ Casal Saudável
             </div>
           </div>
           <div style={{ textAlign: "right", display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 4 }}>
